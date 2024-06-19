@@ -611,7 +611,6 @@
       },
       {
         "name": "Total Sales Amount By Product Color Names",
-        "isHidden": true,
         "columns": [
           {
             "type": "calculatedTableColumn",

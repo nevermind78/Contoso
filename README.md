@@ -19,17 +19,20 @@
 Ceci est un Projet **d'analyse** de donné avec SSAS, Excel et PowerBI basé sur la base de donné Contoso 
 
 ## Modèle Tabulaires
-
+![Modele](img/modele.png)
 ## Excel
-
+Voici deux visuels avec EXCEL
 ### Pivot Table
-
+![Modele](img/tabc.png)
 ### Histogramme
-
+![Modele](img/EXCEL1.png)
 ## PBI
-
+Voici quelques Visuel  avec EXCEL
 ### Visuelle 1
-
+![Modele](img/kpi.png)
 ### Visuelle 2
+![Modele](img/prevision.png)
 
 ## Conclusion
+Le but de Projet et ........
+
