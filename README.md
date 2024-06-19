@@ -12,6 +12,7 @@
   - [PBI](#pbi)
     - [Visuelle 1](#visuelle-1)
     - [Visuelle 2](#visuelle-2)
+    - [Animation](#animation)
   - [Conclusion](#conclusion)
 
 ## Introduction
@@ -33,6 +34,8 @@ Voici quelques Visuel  avec EXCEL
 ### Visuelle 2
 ![Modele](img/prevision.png)
 
+### Animation 
+![Modele](img/animationPBI.gif)
 ## Conclusion
 Le but de Projet et ........
 
